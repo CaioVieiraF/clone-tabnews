@@ -1,17 +1,7 @@
 function Home() {
   return (
-    <div
-      style={{
-        width: "25rem",
-        border: "1px solid",
-        boxShadow:
-          "0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)",
-        textAlign: "center",
-      }}
-    >
-      <div style={{ padding: "1rem" }}>
-        <h3>Schwester, ich liebe dich!</h3>
-      </div>
+    <div style={{ padding: "1rem" }}>
+      <h3>Muita cultura e conhecimento vem por ai...</h3>
     </div>
   );
 }
